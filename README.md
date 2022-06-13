@@ -1,2 +1,2 @@
 # Trabalhos-Academicos
-Trabalhos Académicos realizados ao longo do 4º ano do Mestrado em Informática Médica
+Trabalhos Académicos realizados ao longo do 4º ano do Mestrado em Informática Médica - Universidade do Minho
